@@ -1,3 +1,3 @@
 #This is not code
-
-print("hello world")
+def function():
+  print("hello world")
